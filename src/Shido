@@ -1,0 +1,11 @@
+{
+  "shido": {
+    "prettyName": "Shido",
+    "autostake": {
+      "correctSlip44": true
+    },
+    "healthCheck": {
+      "uuid": "https://hc-ping.com/ec0308ea-84b0-4aa9-9fb8-204e47a62f6f"
+    }
+  }
+}
